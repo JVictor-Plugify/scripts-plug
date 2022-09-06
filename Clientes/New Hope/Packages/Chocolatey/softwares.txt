@@ -1,0 +1,7 @@
+googlechrome
+google-drive-file-stream
+slack
+winrar
+zoom
+ocs_tracker
+dfndr

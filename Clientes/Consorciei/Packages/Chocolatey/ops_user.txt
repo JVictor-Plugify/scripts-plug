@@ -1,0 +1,15 @@
+webex-meetings
+adobereader
+firefox
+postman
+discord
+google-drive-file-stream
+powerbi
+microsoft-teams
+slack
+zoom
+googlechrome
+winrar
+whatsapp
+anydesk.install
+ocs_tracker

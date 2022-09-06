@@ -1,0 +1,6 @@
+googlechrome
+winrar
+google-workspace-sync
+teamviewer
+google-drive-file-stream
+ocs_tracker

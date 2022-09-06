@@ -1,0 +1,5 @@
+anydesk.install
+adobereader
+googlechrome
+google-drive-file-stream
+winrar

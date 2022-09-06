@@ -1,0 +1,9 @@
+googlechrome
+google-drive-file-stream
+pritunl-client
+slack
+7zip
+firefox
+vlc
+ocs_tracker
+TeamViewerWarren

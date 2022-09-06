@@ -1,0 +1,7 @@
+adobereader
+autocad
+sketchup
+slack
+ocs_tracker
+pcon.planner
+miro

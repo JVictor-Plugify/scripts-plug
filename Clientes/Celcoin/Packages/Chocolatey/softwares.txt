@@ -1,0 +1,17 @@
+7zip
+anydesk.install
+slack
+adobereader
+googlechrome
+firefox
+google-drive-file-stream
+javaruntime
+notepadplusplus
+postman
+soapui
+vscode
+filezilla
+sql-server-management-studio
+rdcman
+ocs_tracker
+fortclient-6
