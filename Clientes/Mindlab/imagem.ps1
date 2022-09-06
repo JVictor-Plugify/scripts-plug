@@ -58,7 +58,7 @@ Write-Output -InputObject $event_log > "~\Desktop\Mindlab - $serial.txt"
 
 #Get Anydesk's ID
 $anydeskID = & ".\Clientes\Mindlab\anydeskID.bat"
-echo "MindPG@753159" | & "C:\Program Files (x86)\AnyDeskMSI\AnyDeskMSI.exe" --set-password
+Write-Output "MindPG@753159" | & "C:\Program Files (x86)\AnyDeskMSI\AnyDeskMSI.exe" --set-password
 
 #Change notebook's hostname
 $hostname = 'MINDLAB-PG' + ('{0:d4}' -f ($number + 1))
